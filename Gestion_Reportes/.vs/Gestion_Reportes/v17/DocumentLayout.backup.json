@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jabm_\\OneDrive\\Documentos\\Gestion de reportes docker\\Gestion_Reportes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A28902A5-6C6E-4ACF-AABD-AF3F50E3FAF4}|Gestion_Reportes\\Gestion_Reportes.csproj|c:\\users\\jabm_\\onedrive\\documentos\\gestion de reportes docker\\gestion_reportes\\gestion_reportes\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A28902A5-6C6E-4ACF-AABD-AF3F50E3FAF4}|Gestion_Reportes\\Gestion_Reportes.csproj|solutionrelative:gestion_reportes\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28902A5-6C6E-4ACF-AABD-AF3F50E3FAF4}|Gestion_Reportes\\Gestion_Reportes.csproj|c:\\users\\jabm_\\onedrive\\documentos\\gestion de reportes docker\\gestion_reportes\\gestion_reportes\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A28902A5-6C6E-4ACF-AABD-AF3F50E3FAF4}|Gestion_Reportes\\Gestion_Reportes.csproj|solutionrelative:gestion_reportes\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28902A5-6C6E-4ACF-AABD-AF3F50E3FAF4}|Gestion_Reportes\\Gestion_Reportes.csproj|c:\\users\\jabm_\\onedrive\\documentos\\gestion de reportes docker\\gestion_reportes\\gestion_reportes\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A28902A5-6C6E-4ACF-AABD-AF3F50E3FAF4}|Gestion_Reportes\\Gestion_Reportes.csproj|solutionrelative:gestion_reportes\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28902A5-6C6E-4ACF-AABD-AF3F50E3FAF4}|Gestion_Reportes\\Gestion_Reportes.csproj|c:\\users\\jabm_\\onedrive\\documentos\\gestion de reportes docker\\gestion_reportes\\gestion_reportes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A28902A5-6C6E-4ACF-AABD-AF3F50E3FAF4}|Gestion_Reportes\\Gestion_Reportes.csproj|solutionrelative:gestion_reportes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28902A5-6C6E-4ACF-AABD-AF3F50E3FAF4}|Gestion_Reportes\\Gestion_Reportes.csproj|c:\\users\\jabm_\\onedrive\\documentos\\gestion de reportes docker\\gestion_reportes\\gestion_reportes\\models\\gestion_reportes_dbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A28902A5-6C6E-4ACF-AABD-AF3F50E3FAF4}|Gestion_Reportes\\Gestion_Reportes.csproj|solutionrelative:gestion_reportes\\models\\gestion_reportes_dbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28902A5-6C6E-4ACF-AABD-AF3F50E3FAF4}|Gestion_Reportes\\Gestion_Reportes.csproj|c:\\users\\jabm_\\onedrive\\documentos\\gestion de reportes docker\\gestion_reportes\\gestion_reportes\\models\\reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A28902A5-6C6E-4ACF-AABD-AF3F50E3FAF4}|Gestion_Reportes\\Gestion_Reportes.csproj|solutionrelative:gestion_reportes\\models\\reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28902A5-6C6E-4ACF-AABD-AF3F50E3FAF4}|Gestion_Reportes\\Gestion_Reportes.csproj|c:\\users\\jabm_\\onedrive\\documentos\\gestion de reportes docker\\gestion_reportes\\gestion_reportes\\controllers\\reportescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A28902A5-6C6E-4ACF-AABD-AF3F50E3FAF4}|Gestion_Reportes\\Gestion_Reportes.csproj|solutionrelative:gestion_reportes\\controllers\\reportescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28902A5-6C6E-4ACF-AABD-AF3F50E3FAF4}|Gestion_Reportes\\Gestion_Reportes.csproj|c:\\users\\jabm_\\onedrive\\documentos\\gestion de reportes docker\\gestion_reportes\\gestion_reportes\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A28902A5-6C6E-4ACF-AABD-AF3F50E3FAF4}|Gestion_Reportes\\Gestion_Reportes.csproj|solutionrelative:gestion_reportes\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28902A5-6C6E-4ACF-AABD-AF3F50E3FAF4}|Gestion_Reportes\\Gestion_Reportes.csproj|c:\\users\\jabm_\\onedrive\\documentos\\gestion de reportes docker\\gestion_reportes\\gestion_reportes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A28902A5-6C6E-4ACF-AABD-AF3F50E3FAF4}|Gestion_Reportes\\Gestion_Reportes.csproj|solutionrelative:gestion_reportes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28902A5-6C6E-4ACF-AABD-AF3F50E3FAF4}|Gestion_Reportes\\Gestion_Reportes.csproj|c:\\users\\jabm_\\onedrive\\documentos\\gestion de reportes docker\\gestion_reportes\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A28902A5-6C6E-4ACF-AABD-AF3F50E3FAF4}|Gestion_Reportes\\Gestion_Reportes.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 286,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\jabm_\\OneDrive\\Documentos\\Gestion de reportes docker\\Gestion_Reportes\\Gestion_Reportes\\docker-compose.yml",
+              "RelativeDocumentMoniker": "Gestion_Reportes\\docker-compose.yml",
+              "ToolTip": "C:\\Users\\jabm_\\OneDrive\\Documentos\\Gestion de reportes docker\\Gestion_Reportes\\Gestion_Reportes\\docker-compose.yml",
+              "RelativeToolTip": "Gestion_Reportes\\docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-05-22T17:23:11.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jabm_\\OneDrive\\Documentos\\Gestion de reportes docker\\Gestion_Reportes\\Gestion_Reportes\\appsettings.json",
+              "RelativeDocumentMoniker": "Gestion_Reportes\\appsettings.json",
+              "ToolTip": "C:\\Users\\jabm_\\OneDrive\\Documentos\\Gestion de reportes docker\\Gestion_Reportes\\Gestion_Reportes\\appsettings.json",
+              "RelativeToolTip": "Gestion_Reportes\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-22T17:18:43.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Reporte.cs",
+              "DocumentMoniker": "C:\\Users\\jabm_\\OneDrive\\Documentos\\Gestion de reportes docker\\Gestion_Reportes\\Gestion_Reportes\\Models\\Reporte.cs",
+              "RelativeDocumentMoniker": "Gestion_Reportes\\Models\\Reporte.cs",
+              "ToolTip": "C:\\Users\\jabm_\\OneDrive\\Documentos\\Gestion de reportes docker\\Gestion_Reportes\\Gestion_Reportes\\Models\\Reporte.cs",
+              "RelativeToolTip": "Gestion_Reportes\\Models\\Reporte.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:02:39.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReportesController.cs",
+              "DocumentMoniker": "C:\\Users\\jabm_\\OneDrive\\Documentos\\Gestion de reportes docker\\Gestion_Reportes\\Gestion_Reportes\\Controllers\\ReportesController.cs",
+              "RelativeDocumentMoniker": "Gestion_Reportes\\Controllers\\ReportesController.cs",
+              "ToolTip": "C:\\Users\\jabm_\\OneDrive\\Documentos\\Gestion de reportes docker\\Gestion_Reportes\\Gestion_Reportes\\Controllers\\ReportesController.cs",
+              "RelativeToolTip": "Gestion_Reportes\\Controllers\\ReportesController.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAqwJkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:35:46.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jabm_\\OneDrive\\Documentos\\Gestion de reportes docker\\Gestion_Reportes\\Gestion_Reportes\\Program.cs",
+              "RelativeDocumentMoniker": "Gestion_Reportes\\Program.cs",
+              "ToolTip": "C:\\Users\\jabm_\\OneDrive\\Documentos\\Gestion de reportes docker\\Gestion_Reportes\\Gestion_Reportes\\Program.cs",
+              "RelativeToolTip": "Gestion_Reportes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:28:12.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Gestion_Reportes_DBModel.cs",
+              "DocumentMoniker": "C:\\Users\\jabm_\\OneDrive\\Documentos\\Gestion de reportes docker\\Gestion_Reportes\\Gestion_Reportes\\Models\\Gestion_Reportes_DBModel.cs",
+              "RelativeDocumentMoniker": "Gestion_Reportes\\Models\\Gestion_Reportes_DBModel.cs",
+              "ToolTip": "C:\\Users\\jabm_\\OneDrive\\Documentos\\Gestion de reportes docker\\Gestion_Reportes\\Gestion_Reportes\\Models\\Gestion_Reportes_DBModel.cs",
+              "RelativeToolTip": "Gestion_Reportes\\Models\\Gestion_Reportes_DBModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwBsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:21:13.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\jabm_\\OneDrive\\Documentos\\Gestion de reportes docker\\Gestion_Reportes\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\jabm_\\OneDrive\\Documentos\\Gestion de reportes docker\\Gestion_Reportes\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-22T03:59:35.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\jabm_\\OneDrive\\Documentos\\Gestion de reportes docker\\Gestion_Reportes\\Gestion_Reportes\\Dockerfile",
+              "RelativeDocumentMoniker": "Gestion_Reportes\\Dockerfile",
+              "ToolTip": "C:\\Users\\jabm_\\OneDrive\\Documentos\\Gestion de reportes docker\\Gestion_Reportes\\Gestion_Reportes\\Dockerfile",
+              "RelativeToolTip": "Gestion_Reportes\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-22T03:59:17.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\jabm_\\OneDrive\\Documentos\\Gestion de reportes docker\\Gestion_Reportes\\Gestion_Reportes\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Gestion_Reportes\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\jabm_\\OneDrive\\Documentos\\Gestion de reportes docker\\Gestion_Reportes\\Gestion_Reportes\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Gestion_Reportes\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-19T23:55:27.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\jabm_\\OneDrive\\Documentos\\Gestion de reportes docker\\Gestion_Reportes\\Gestion_Reportes\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Gestion_Reportes\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\jabm_\\OneDrive\\Documentos\\Gestion de reportes docker\\Gestion_Reportes\\Gestion_Reportes\\appsettings.Development.json",
+              "RelativeToolTip": "Gestion_Reportes\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-18T03:39:58.941Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

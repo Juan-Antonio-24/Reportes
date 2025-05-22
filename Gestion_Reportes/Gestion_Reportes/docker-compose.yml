@@ -1,0 +1,10 @@
+services:
+  gestion_reportes:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "5113:8080"    
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Host=dpg-d0njcemmcj7s73e2vku0-a.oregon-postgres.render.com;Port=5432;Database=reportes_pbi;Username=juanadmi;Password=ziUfgB0IewmBrZTZOtTxONh3PG02t5d4

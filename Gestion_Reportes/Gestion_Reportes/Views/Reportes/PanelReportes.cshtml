@@ -1,0 +1,35 @@
+﻿@model IEnumerable<Gestion_Reportes.Models.Reporte>
+
+@{
+    ViewData["Title"] = "PanelReportes";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="app-title">
+    <div>
+        <h1 class="txt-danger">
+            Reportes registrados
+        </h1>
+    </div>
+</div>
+
+<div class="=title">
+    <div class"container">
+        <div class="row">
+            @foreach (var reporte in Model)
+            {
+                <div class="col-md-6">
+                    <div class="card-header bg-primary text-white text-center">
+                        <h5>@reporte.Nombre</h5>
+                    </div>
+                </div>
+                <div class="card-body">
+                    <a asp-action="VistaReporte"
+                        asp-route-id="@reporte.Id_Reporte">
+                        <img src="@reporte.UrlVistaPrevia" class="img-thumbnail"/>
+                    </a>
+                </div>
+            }
+        </div>
+    </div>
+</div>
