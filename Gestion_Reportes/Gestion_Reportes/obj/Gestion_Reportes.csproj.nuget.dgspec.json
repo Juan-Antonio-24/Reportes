@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jabm_\\OneDrive\\Documentos\\Gestion de reportes docker\\Gestion_Reportes\\Gestion_Reportes\\Gestion_Reportes.csproj": {}
+    "C:\\Users\\jabm_\\OneDrive\\Documentos\\GitHub\\Reportes\\Gestion_Reportes\\Gestion_Reportes\\Gestion_Reportes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jabm_\\OneDrive\\Documentos\\Gestion de reportes docker\\Gestion_Reportes\\Gestion_Reportes\\Gestion_Reportes.csproj": {
+    "C:\\Users\\jabm_\\OneDrive\\Documentos\\GitHub\\Reportes\\Gestion_Reportes\\Gestion_Reportes\\Gestion_Reportes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jabm_\\OneDrive\\Documentos\\Gestion de reportes docker\\Gestion_Reportes\\Gestion_Reportes\\Gestion_Reportes.csproj",
+        "projectUniqueName": "C:\\Users\\jabm_\\OneDrive\\Documentos\\GitHub\\Reportes\\Gestion_Reportes\\Gestion_Reportes\\Gestion_Reportes.csproj",
         "projectName": "Gestion_Reportes",
-        "projectPath": "C:\\Users\\jabm_\\OneDrive\\Documentos\\Gestion de reportes docker\\Gestion_Reportes\\Gestion_Reportes\\Gestion_Reportes.csproj",
+        "projectPath": "C:\\Users\\jabm_\\OneDrive\\Documentos\\GitHub\\Reportes\\Gestion_Reportes\\Gestion_Reportes\\Gestion_Reportes.csproj",
         "packagesPath": "C:\\Users\\jabm_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jabm_\\OneDrive\\Documentos\\Gestion de reportes docker\\Gestion_Reportes\\Gestion_Reportes\\obj\\",
+        "outputPath": "C:\\Users\\jabm_\\OneDrive\\Documentos\\GitHub\\Reportes\\Gestion_Reportes\\Gestion_Reportes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

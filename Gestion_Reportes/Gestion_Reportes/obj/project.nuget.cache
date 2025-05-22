@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DvBnUfqB+8A=",
+  "dgSpecHash": "a+ZI0vtzIYw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\jabm_\\OneDrive\\Documentos\\Gestion de reportes docker\\Gestion_Reportes\\Gestion_Reportes\\Gestion_Reportes.csproj",
+  "projectFilePath": "C:\\Users\\jabm_\\OneDrive\\Documentos\\GitHub\\Reportes\\Gestion_Reportes\\Gestion_Reportes\\Gestion_Reportes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jabm_\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\jabm_\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

@@ -7,7 +7,7 @@ namespace Gestion_Reportes.Models
     {
         [Key]
         [Column("id_reporte")]
-        public Int16 Id_Reporte { get; set; }
+        public int Id_Reporte { get; set; }
 
         [Required(ErrorMessage = "El campo {0} es obligatorio")]
         [StringLength(50, ErrorMessage = "El {0} del reporte debe ser menor o igual a 50 caracteres")]
